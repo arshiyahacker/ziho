@@ -221,13 +221,12 @@ function create_config( )
     "get",
     "broadcast",
     "download_media",
-    "invite",
+    "plugins",
     "all",
     "leave_ban",
     "admin"
     },
-    sudo_users = {[In reply to ادمین میشم فوری+50کا ویو هم درست میکنم]
-230437291(our_id)},--Sudo users
+    sudo_users = {23043729},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
